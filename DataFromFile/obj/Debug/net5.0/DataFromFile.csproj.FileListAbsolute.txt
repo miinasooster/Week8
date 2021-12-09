@@ -1,0 +1,15 @@
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/DataFromFile/bin/Debug/net5.0/DataFromFile.deps.json
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/DataFromFile/bin/Debug/net5.0/DataFromFile.runtimeconfig.json
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/DataFromFile/bin/Debug/net5.0/DataFromFile.runtimeconfig.dev.json
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/DataFromFile/bin/Debug/net5.0/DataFromFile.dll
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/DataFromFile/bin/Debug/net5.0/ref/DataFromFile.dll
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/DataFromFile/bin/Debug/net5.0/DataFromFile.pdb
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/DataFromFile/obj/Debug/net5.0/DataFromFile.csproj.AssemblyReference.cache
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/DataFromFile/obj/Debug/net5.0/DataFromFile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/DataFromFile/obj/Debug/net5.0/DataFromFile.AssemblyInfoInputs.cache
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/DataFromFile/obj/Debug/net5.0/DataFromFile.AssemblyInfo.cs
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/DataFromFile/obj/Debug/net5.0/DataFromFile.csproj.CoreCompileInputs.cache
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/DataFromFile/obj/Debug/net5.0/DataFromFile.dll
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/DataFromFile/obj/Debug/net5.0/ref/DataFromFile.dll
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/DataFromFile/obj/Debug/net5.0/DataFromFile.pdb
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/DataFromFile/obj/Debug/net5.0/DataFromFile.genruntimeconfig.cache

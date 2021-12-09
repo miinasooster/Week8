@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{0D74260E-B960-40F1-9BB7-70D0DCFAE39C}|Default">
+  <MonoDevelop.Ide.ItemProperties.FridayNightRandomReturn PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataFromFile/Program.cs">
+    <Files>
+      <File FileName="FunctionsReturnAndArraysFromFile/Program.cs" Line="8" Column="9" />
+      <File FileName="FridayNightRandom/Program.cs" Line="11" Column="45" />
+      <File FileName="FridayNightRandomReturn/Program.cs" Line="20" Column="9" />
+      <File FileName="DataFromFile/Program.cs" Line="37" Column="84" />
+      <File FileName="ChuckNorris/Program.cs" Line="24" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FunctionsReturnAndArraysFromFile" expanded="True">
+            <Node name="ChuckNorris" expanded="True" />
+            <Node name="DataFromFile" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="FridayNightRandom" expanded="True" />
+            <Node name="FridayNightRandomReturn" expanded="True" />
+            <Node name="FunctionsReturnAndArraysFromFile" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ChuckNorris PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.FunctionsReturnAndArraysFromFile PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FridayNightRandom PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DataFromFile PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

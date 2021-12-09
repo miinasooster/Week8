@@ -1,0 +1,15 @@
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/FridayNightRandom/bin/Debug/net5.0/FridayNightRandom.deps.json
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/FridayNightRandom/bin/Debug/net5.0/FridayNightRandom.runtimeconfig.json
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/FridayNightRandom/bin/Debug/net5.0/FridayNightRandom.runtimeconfig.dev.json
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/FridayNightRandom/bin/Debug/net5.0/FridayNightRandom.dll
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/FridayNightRandom/bin/Debug/net5.0/ref/FridayNightRandom.dll
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/FridayNightRandom/bin/Debug/net5.0/FridayNightRandom.pdb
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/FridayNightRandom/obj/Debug/net5.0/FridayNightRandom.csproj.AssemblyReference.cache
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/FridayNightRandom/obj/Debug/net5.0/FridayNightRandom.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/FridayNightRandom/obj/Debug/net5.0/FridayNightRandom.AssemblyInfoInputs.cache
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/FridayNightRandom/obj/Debug/net5.0/FridayNightRandom.AssemblyInfo.cs
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/FridayNightRandom/obj/Debug/net5.0/FridayNightRandom.csproj.CoreCompileInputs.cache
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/FridayNightRandom/obj/Debug/net5.0/FridayNightRandom.dll
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/FridayNightRandom/obj/Debug/net5.0/ref/FridayNightRandom.dll
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/FridayNightRandom/obj/Debug/net5.0/FridayNightRandom.pdb
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/FridayNightRandom/obj/Debug/net5.0/FridayNightRandom.genruntimeconfig.cache

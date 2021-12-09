@@ -1,0 +1,15 @@
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/ChuckNorris/bin/Debug/net5.0/ChuckNorris.deps.json
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/ChuckNorris/bin/Debug/net5.0/ChuckNorris.runtimeconfig.json
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/ChuckNorris/bin/Debug/net5.0/ChuckNorris.runtimeconfig.dev.json
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/ChuckNorris/bin/Debug/net5.0/ChuckNorris.dll
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/ChuckNorris/bin/Debug/net5.0/ref/ChuckNorris.dll
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/ChuckNorris/bin/Debug/net5.0/ChuckNorris.pdb
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/ChuckNorris/obj/Debug/net5.0/ChuckNorris.csproj.AssemblyReference.cache
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/ChuckNorris/obj/Debug/net5.0/ChuckNorris.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/ChuckNorris/obj/Debug/net5.0/ChuckNorris.AssemblyInfoInputs.cache
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/ChuckNorris/obj/Debug/net5.0/ChuckNorris.AssemblyInfo.cs
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/ChuckNorris/obj/Debug/net5.0/ChuckNorris.csproj.CoreCompileInputs.cache
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/ChuckNorris/obj/Debug/net5.0/ChuckNorris.dll
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/ChuckNorris/obj/Debug/net5.0/ref/ChuckNorris.dll
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/ChuckNorris/obj/Debug/net5.0/ChuckNorris.pdb
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/ChuckNorris/obj/Debug/net5.0/ChuckNorris.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/FridayNightRandomReturn/bin/Debug/net5.0/FridayNightRandomReturn.deps.json
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/FridayNightRandomReturn/bin/Debug/net5.0/FridayNightRandomReturn.runtimeconfig.json
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/FridayNightRandomReturn/bin/Debug/net5.0/FridayNightRandomReturn.runtimeconfig.dev.json
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/FridayNightRandomReturn/bin/Debug/net5.0/FridayNightRandomReturn.dll
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/FridayNightRandomReturn/bin/Debug/net5.0/ref/FridayNightRandomReturn.dll
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/FridayNightRandomReturn/bin/Debug/net5.0/FridayNightRandomReturn.pdb
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/FridayNightRandomReturn/obj/Debug/net5.0/FridayNightRandomReturn.csproj.AssemblyReference.cache
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/FridayNightRandomReturn/obj/Debug/net5.0/FridayNightRandomReturn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/FridayNightRandomReturn/obj/Debug/net5.0/FridayNightRandomReturn.AssemblyInfoInputs.cache
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/FridayNightRandomReturn/obj/Debug/net5.0/FridayNightRandomReturn.AssemblyInfo.cs
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/FridayNightRandomReturn/obj/Debug/net5.0/FridayNightRandomReturn.csproj.CoreCompileInputs.cache
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/FridayNightRandomReturn/obj/Debug/net5.0/FridayNightRandomReturn.dll
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/FridayNightRandomReturn/obj/Debug/net5.0/ref/FridayNightRandomReturn.dll
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/FridayNightRandomReturn/obj/Debug/net5.0/FridayNightRandomReturn.pdb
+/Users/miinasooster/Projects/FunctionsReturnAndArraysFromFile/FridayNightRandomReturn/obj/Debug/net5.0/FridayNightRandomReturn.genruntimeconfig.cache
